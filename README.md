@@ -34,7 +34,6 @@
 ## 프로젝트 일정
 ![KakaoTalk_20230821_142418423](https://github.com/K-Software-BootCamp/2023KEB_M1/assets/75204368/d4588b85-6422-46dc-80f6-b255bae55161)
 
-
 ## 참여기업
 
 MDS 테크
